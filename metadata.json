@@ -2,5 +2,5 @@
   "name": "TMT Official YT — Free Fire eSports Platform",
   "description": "Production-ready, mobile-first Free Fire eSports competition platform for India with multi-database routing, team management, verified tournament brackets, compliance gating, and live stream integration.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
